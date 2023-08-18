@@ -5,7 +5,7 @@ export default function Modal({ active, setActive }) {
     <>
       {/* <div onClick={() => setActive(false)} className={css.backdrop}> */}
       <div className={active ? css.modal : css.active}>
-        <h1 className={css.title}>Одевайся</h1>
+        <h1 className={css.title}>Как дела?</h1>
       </div>
       {/* </div> */}
     </>
