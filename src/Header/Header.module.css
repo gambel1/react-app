@@ -1,0 +1,38 @@
+/* .burgerMenu {
+  width: 30px;
+  height: 30px;
+  margin-left: 20px;
+  position: relative;
+  color: #000000;
+}
+
+.burgerMenu:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  width: 30px;
+  height: 2px;
+  border-top: 10px;
+  color: #000000;
+}
+
+.burgerMenu:after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  width: 30px;
+  height: 2px;
+  color: #000000;
+} */
+
+.burgerMenu {
+  height: 30px;
+  width: 30px;
+  border: solid 3px #000;
+  color: antiquewhite;
+  margin-top: 10px;
+  margin-left: 10px;
+  border-top: 10px;
+  position: relative;
+  cursor: pointer;
+}
