@@ -27,12 +27,15 @@
 
 .burgerMenu {
   height: 30px;
-  width: 30px;
+
   border: solid 3px #000;
-  color: antiquewhite;
+  color: #000;
   margin-top: 10px;
   margin-left: 10px;
   border-top: 10px;
-  position: relative;
+  /* position: relative; */
   cursor: pointer;
+  padding: 5px 10px;
+  background-color: aqua;
+  border-radius: 5px;
 }

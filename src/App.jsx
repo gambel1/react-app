@@ -3,7 +3,7 @@ import Modal from "./Modal/Modal";
 import { useState } from "react";
 
 export default function App() {
-  const [modalActive, setModalActive] = useState(false);
+  const [modalActive, setModalActive] = useState(true);
   // const toggleModal = setModalActive(!modalActive)
 
   const handleClick = () => {

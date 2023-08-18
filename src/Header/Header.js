@@ -8,7 +8,7 @@ export default function Header({click}) {
         type="button"
         className={css.burgerMenu}
         onClick={click}
-      ></button>
+      >Нажми на кнопку!</button>
     </div>
   );
 }
